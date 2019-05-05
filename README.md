@@ -1,2 +1,2 @@
 # Revolution UHC
-https://bit.ly/RevoDiscord
+Hosting Guide
